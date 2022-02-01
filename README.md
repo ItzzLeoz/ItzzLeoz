@@ -10,7 +10,7 @@
    <br>
    - 👀 I’m interested in programming
    <br>
-   - 🌱 I’m currently learning CSS
+   - 🌱 I’m currently learning CSS, JS and C++
   </div>
   <h1>Projects</h1>
   <div class="Projects">
