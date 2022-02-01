@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>@ItzzLeoz</title>
+  @ItzzLeoz
  </head>
  <body>
   <h1>Introducing</h1>
