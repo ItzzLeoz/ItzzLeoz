@@ -15,6 +15,7 @@
   <h1>Projects</h1>
   <div class="Projects">
    - <a href="http://iosclockproject.tk/">iOS Clock, web app</a>
+   <br>
    - <a href="https://alessandrobonofanpage.it/">Alessandro Bono FANPAGE website</a>
    </p>
   </div>
