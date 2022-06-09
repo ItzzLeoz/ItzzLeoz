@@ -1,18 +1,20 @@
 Hi 👋 My name is Leonardo Radaelli
 ==================================
 
-Web developer, Minecraft player and Discord staffer
+Web developer, Minecraft player and content creator
 ---------------------------------------------------
 
-I started by learning HTML, I then passed to CSS, JS and finally arrived to Node.js; with it I developed two Discord bots. With my HTML, CSS and JS skills I also developed some websites: https://alessandrobonofanpage.it/ 📁 http://iosclockproject.tk/ 📁 https://leozhub.net/ 📁
+I started by learning HTML, I then passed to CSS, JS and finally arrived to Node.js; with it I developed two Discord bots. With my HTML, CSS and JS skills I also developed some websites: <br>
+🔗 https://alessandrobonofanpage.it/ <br>
+🔗 http://iosclockproject.tk/
 
 *   🌍  I'm based in Milan
-*   🖥️  See my portfolio at [My website](http://leozhub.net/)
+*   🖥️  Social links at https://linktr.ee/itzz.leoz
 *   ✉️  You can contact me at [itzzleozcontact@gmail.com](mailto:itzzleozcontact@gmail.com )
-*   🚀  I'm currently working on [LeozHub Minecraft server/Discord](http://discord.leozservers.ml/)
+*   🚀  I'm currently working on graphic design/video editing
 *   🧠  I'm learning C++
-*   🤝  I'm open to collaborating on Minecraft and Discord servers
-*   ⚡  I’m 14 years old, I like a lot programming and technology in general: I pass a lot of hours on my computer every day and I have always a new project to complete. I also play waterpolo in the free time<br><br><a href="https://www.github.com/itzzleoz " target="_blank" rel="noreferrer"><img
+*   🤝  Follow my other socials for more :), here you can find some programming stuff that I do when I want
+*   ⚡  I like a lot programming and technology in general: I pass a lot of hours on my computer every day and I have always a new project to complete. I also play waterpolo in the free time<br><br><a href="https://www.github.com/itzzleoz " target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/itzzleoz ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br>
 <hr>
 <strong>--- Skills</strong><p align="left">
